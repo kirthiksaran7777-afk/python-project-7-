@@ -189,3 +189,13 @@ This project demonstrates how data analytics and interactive visualizations can 
 
 
 Data Analytics & Visualization Project
+<img width="997" height="786" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/ddf5ed26-e03f-4493-87ed-53b17d672b34" />
+<img width="1057" height="687" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/1c8af604-505e-4af8-a7ca-288922a083fd" />
+<img width="1009" height="823" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/813e4088-c898-4412-bcad-29dd127581f1" />
+<img width="1013" height="677" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/3927f077-2b1a-437b-b784-19c290629c99" />
+<img width="1032" height="848" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/9f15ca4f-bc99-4e3c-8267-bffd292deeb7" />
+<img width="1048" height="424" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/a23e9bfd-5eb9-4964-8464-bca07655dda4" />
+
+
+
+
